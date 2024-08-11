@@ -71,6 +71,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/simu18/simu18/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
