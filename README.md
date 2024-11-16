@@ -1,4 +1,4 @@
-<h2 align="center">Hey there! 👋 I'm Mr. Afi<br>Your friendly neighborhood ML engineer from Bangladesh 🌍</h2>
+<h2 align="center">Hey there! 👋 I'm Mr. Afi</h2>
 
 <p align="center">🚀 Turning coffee into code, one model at a time. When I'm not busy making machines smarter, you might find me plotting world domination... or just binge-watching cat videos. 🐱</p>
 
